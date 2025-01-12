@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(0, 255, 136);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-1{
+ background-color: yellow;
+ padding: 20px;
+ border: 2px solid black;
+ border-radius: 10px;
+}
+
+h1{
+   text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.input-1{
+    margin-bottom: 3px;
+      
+}
+
+.main-2{
+
+}
+
+.hh-2{
+    background-color: yellow;
+    padding: 25px;
+    width: 250px;
+    border-bottom: 5px solid rgb(72, 79, 180);
+    border-top: 5px dashed rgb(211, 11, 11);
+    border-left: 5px solid rgb(0, 148, 44);
+    border-right: 5px solid rgb(0, 170, 170);
+    margin-top: 50px;
+}
+
+.main-3{
+    display: flex;
+    gap: 40px;
+}
+
+img{
+    border-radius: 100%;
+    height: 225px;
+    border-top: 6px dashed rgb(108, 180, 0);
+    border-left: 6px solid rgb(77, 204, 255);
+    border-right: 6px solid gold;
+    border-bottom: 6px solid white;
+}
